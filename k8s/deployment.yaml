@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: calculator-container
-          image: rahulambaragonda/calculator-app:latest
+          image: rahulambaragonda/payment-app:latest
           ports:
             - containerPort: 8080
